@@ -4,7 +4,7 @@ In this week's independent project I will be playing the role of a data scientis
 
 ## Installation
 
-The project has been carried out on Google Collaboratory.
+The project has been carried out on Google Colaboratory.
 
 ## Technologies Used
 
